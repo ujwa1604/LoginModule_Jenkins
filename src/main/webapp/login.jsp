@@ -12,6 +12,6 @@
   Enter password : <input type = "password" name = "pass"><br>
   <input type = "submit" value = "login">
   </form>
-  <h1>Hello</h1>
+  <h1>Hello World</h1>
 </body>
 </html>
